@@ -69,6 +69,12 @@ body{ background-color: rgb(255, 255, 255);
                 
                }
                
-.about{background: #43869c;
+.about{background: #003d52;
+    padding: 100px;
+    color:white;
+    background-image: url(../imagens/bg_detalhe.png);
+    background-repeat: no-repeat;
+    background-position: right bottom ;
+       
 
 }
