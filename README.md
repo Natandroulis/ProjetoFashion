@@ -1,5 +1,5 @@
 # ProjetoFashion
-### Projeto com LINDO layout feito com HTML e CSS.
+### Projeto com  layout feito com HTML e CSS.
 
 
 Esse projeto inteiro pode ser visualizado em https://natandroulis.github.io/ProjetoFashion/
